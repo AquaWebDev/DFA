@@ -1,3 +1,5 @@
 {
-  "main.aqua": "https://aquawebdev.github.io"
+  "home.aqua": "https://aquawebdev.github.io",
+  "about.aqua": "https://aquawebdev.github.io/about.aqrm",
+  "create.aqua": "https://aquawebdev.github.io/create.aqrm"
 }
